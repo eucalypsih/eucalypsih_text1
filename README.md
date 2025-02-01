@@ -6,6 +6,9 @@ penelitian ini `adalah`
 * This research `is a`
 penelitian ini `merupakan`
 
+## a
+* a decision keputusan
+
 ## this
 * this affair
 * this matter hal ini
