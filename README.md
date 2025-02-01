@@ -16,6 +16,7 @@ penelitian ini `merupakan`
 
 ## i
 * i appreciate
+* i believe
 * i would saya ingin
 * i hope saya harap
 
