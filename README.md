@@ -6,3 +6,14 @@ penelitian ini `adalah`
 * This research `is a`
 penelitian ini `merupakan`
 
+## this
+* this matter hal ini
+* this issue masalah ini
+* this message pesan ini
+* this report
+
+## i
+* i would saya ingin
+* i hope saya harap
+
+
