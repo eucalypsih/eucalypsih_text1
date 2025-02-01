@@ -7,6 +7,7 @@ penelitian ini `adalah`
 penelitian ini `merupakan`
 
 ## this
+* this affair
 * this matter hal ini
 * this issue masalah ini
 * this message pesan ini
