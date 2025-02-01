@@ -14,6 +14,7 @@ penelitian ini `merupakan`
 * this email
 
 ## i
+* i appreciate
 * i would saya ingin
 * i hope saya harap
 
