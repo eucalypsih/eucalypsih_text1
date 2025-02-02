@@ -18,6 +18,7 @@ penelitian ini `merupakan`
 
 ## the
 * avoiding `the use of` slang menghindari `penggunaan` slang
+* `the value of`
 
 ## this
 * this affair
