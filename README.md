@@ -10,6 +10,10 @@ penelitian ini `merupakan`
 * `using` polite `Menggunakan` bahasa yang sopan
 * `the use of` slang `penggunaan` bahasa gaul
 
+## if
+* en_`whether` id_`apakah` - digunakan untuk menunjukkan pilihan atau kemungkinan
+* en_`provided that` id_`asalkan` - digunakan untuk menunjukkan syarat atau kondisi
+
 ## a
 * a decision keputusan
 
