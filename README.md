@@ -15,6 +15,9 @@ penelitian ini `merupakan`
 ## let
 * let me know
 
+## the
+* avoiding `the use of` slang menghindari `penggunaan` slang
+
 ## this
 * this affair
 * this device
