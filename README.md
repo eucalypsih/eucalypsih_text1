@@ -47,4 +47,4 @@ penelitian ini `merupakan`
 ## persamaan
 * Whether - Digunakan untuk menunjukkan pilihan atau kemungkinan.
 * In case - Digunakan untuk menunjukkan situasi yang mungkin terjadi.
-* Provided that - Digunakan untuk menunjukkan syarat atau kondisi. ex: {}
+* Provided that - Digunakan untuk menunjukkan syarat atau kondisi. ex_en: { You can go out `provided that` you finish your homework.}
