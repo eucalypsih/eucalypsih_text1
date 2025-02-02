@@ -9,6 +9,9 @@ penelitian ini `merupakan`
 ## a
 * a decision keputusan
 
+## let
+* let me know
+
 ## this
 * this affair
 * this device
