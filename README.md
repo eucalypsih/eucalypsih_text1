@@ -13,6 +13,9 @@ penelitian ini `merupakan`
 ## a
 * a decision keputusan
 
+## any
+* if you require `any further` jika kamu memerlukan information `lebih lanjut`
+
 ## let
 * let me know
 
