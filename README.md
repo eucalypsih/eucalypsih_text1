@@ -6,6 +6,9 @@ penelitian ini `adalah`
 * This research `is a`
 penelitian ini `merupakan`
 
+## summary
+* using polite Menggunakan bahasa yang sopan
+
 ## a
 * a decision keputusan
 
