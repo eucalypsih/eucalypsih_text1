@@ -44,3 +44,7 @@ penelitian ini `merupakan`
 * i submit saya mengajukan
 * i look saya menantikan
 
+## persamaan
+* Whether - Digunakan untuk menunjukkan pilihan atau kemungkinan.
+* In case - Digunakan untuk menunjukkan situasi yang mungkin terjadi.
+* 
