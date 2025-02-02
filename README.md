@@ -27,5 +27,6 @@ penelitian ini `merupakan`
 * i believe saya percaya
 * i would saya ingin
 * i hope saya harap
-
+* i submit saya mengajukan
+* i look saya menantikan
 
