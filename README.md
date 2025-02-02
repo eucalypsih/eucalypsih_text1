@@ -11,6 +11,7 @@ penelitian ini `merupakan`
 
 ## this
 * this affair
+* this device
 * this matter hal ini
 * this issue masalah ini
 * this message pesan ini
@@ -19,8 +20,8 @@ penelitian ini `merupakan`
 * this email
 
 ## i
-* i appreciate
-* i believe
+* i appreciate saya menghargai
+* i believe saya percaya
 * i would saya ingin
 * i hope saya harap
 
