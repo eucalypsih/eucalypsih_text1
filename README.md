@@ -8,7 +8,7 @@ penelitian ini `merupakan`
 
 ## summary
 * `using` polite `Menggunakan` bahasa yang sopan
-* the use of slang `penggunaan bahasa gaul
+* `the use of` slang `penggunaan` bahasa gaul
 
 ## a
 * a decision keputusan
