@@ -22,6 +22,9 @@ penelitian ini `merupakan`
 * this topic
 * this email
 
+## your
+* your attention to perhatian anda terhadap
+
 ## i
 * i appreciate saya menghargai
 * i believe saya percaya
