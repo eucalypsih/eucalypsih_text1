@@ -30,6 +30,7 @@ penelitian ini `merupakan`
 ## the
 * avoiding `the use of` slang menghindari `penggunaan` slang
 * `the value of`
+* may be used depending on `the level of` ownership required
 
 ## this
 * this affair
