@@ -23,6 +23,10 @@ penelitian ini `merupakan`
 ## let
 * let me know
 
+## that
+* that implements the
+* that tells the
+
 ## the
 * avoiding `the use of` slang menghindari `penggunaan` slang
 * `the value of`
