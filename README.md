@@ -29,6 +29,7 @@ penelitian ini `merupakan`
 * `that if the` en_The first is `that if the` trait isn’t defined in your scope, it doesn’t apply
 
 ## the
+* `the type of` en_you can also spesify `the type of` a variable explicitly
 * avoiding `the use of` slang menghindari `penggunaan` slang
 * that implements `the value of`
 * may be used depending on `the level of` ownership required
