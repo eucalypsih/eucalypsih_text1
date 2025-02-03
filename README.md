@@ -24,8 +24,9 @@ penelitian ini `merupakan`
 * let me know
 
 ## that
-* that implements the
-* that tells the
+* `that implements the`
+* `that tells the`
+* `that if the` en_The first is `that if the` trait isn’t defined in your scope, it doesn’t apply
 
 ## the
 * avoiding `the use of` slang menghindari `penggunaan` slang
