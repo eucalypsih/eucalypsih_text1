@@ -30,9 +30,10 @@ penelitian ini `merupakan`
 
 ## the
 * `the type of` en_you can also spesify `the type of` a variable explicitly
-* avoiding `the use of` slang menghindari `penggunaan` slang
-* that implements `the value of`
-* may be used depending on `the level of` ownership required
+* `the fields of` en_you can access `the fields of` a struct using dot notation
+* `the use of` en_avoiding `the use of` slang menghindari `penggunaan` slang
+* `the value of` that implements `the value of`
+* `the level of` may be used depending on `the level of` ownership required
 
 ## this
 * this affair
