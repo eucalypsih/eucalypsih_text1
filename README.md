@@ -49,6 +49,11 @@ penelitian ini `merupakan`
 * this topic
 * this email
 
+## you
+* `if you want` en_`if you want` to convert a string representing an octal number to an integer
+* `you can declare` en_`you can declare` a variable of type Byte
+* `you can also declare` en_`you can also declare` a mutable Byte variable using var
+
 ## your
 * your attention to perhatian anda terhadap
 
