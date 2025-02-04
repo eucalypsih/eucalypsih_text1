@@ -24,9 +24,10 @@ penelitian ini `merupakan`
 * let me know
 
 ## that
+* `that the value` en_you should ensure `that the value` is within the valid range for a Byte
 * `that implements the`
 * `that tells the`
-* `that if the` en_The first is `that if the` trait isn’t defined in your scope, it doesn’t apply
+* `that if the` en_the first is `that if the` trait isn’t defined in your scope, it doesn’t apply
 
 ## the
 * `the maximum value that` en_which is `the maximum value that` a Byte can hold in Kotlin
