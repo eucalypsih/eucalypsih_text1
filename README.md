@@ -30,6 +30,7 @@ penelitian ini `merupakan`
 
 ## the
 * `the maximum value that` en_which is `the maximum value that` a Byte can hold in Kotlin
+* `the value of` en_you can later change `the value of` this variable if needed
 * `the type of` en_you can also spesify `the type of` a variable explicitly
 * `the fields of` en_you can access `the fields of` a struct using dot notation
 * `the use of` en_avoiding `the use of` slang menghindari `penggunaan` slang
