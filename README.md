@@ -25,6 +25,7 @@ penelitian ini `merupakan`
 
 ## that
 * `that the value` en_you should ensure `that the value` is within the valid range for a Byte
+* `that the value` en_just remember that the value assigned to a Byte variable must always be within the range of -128 to 127
 * `that implements the`
 * `that tells the`
 * `that if the` en_the first is `that if the` trait isn’t defined in your scope, it doesn’t apply
