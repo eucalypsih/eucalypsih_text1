@@ -29,6 +29,7 @@ penelitian ini `merupakan`
 * `that if the` en_The first is `that if the` trait isn’t defined in your scope, it doesn’t apply
 
 ## the
+* `the maximum value that` en_which is `the maximum value that` a Byte can hold in Kotlin
 * `the type of` en_you can also spesify `the type of` a variable explicitly
 * `the fields of` en_you can access `the fields of` a struct using dot notation
 * `the use of` en_avoiding `the use of` slang menghindari `penggunaan` slang
