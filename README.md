@@ -38,6 +38,11 @@ penelitian ini `merupakan`
 * `the use of` en_avoiding `the use of` slang menghindari `penggunaan` slang
 * `the value of` that implements `the value of`
 * `the level of` may be used depending on `the level of` ownership required
+* `the message`
+* `the length`
+
+## of the
+* `of the message`
 
 ## this
 * this affair
